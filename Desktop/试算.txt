@@ -1,0 +1,20 @@
+{
+    "requestId": "1725068310143",
+    "returnCode": "00",
+    "returnMsg": "成功",
+    "data": {
+        "totalOriginalPrem": "0.00001",
+        "totalDiscountPrem": "0.00001",
+        "totalPrem": "0.00001",
+        "totalAddPrem": "0",
+        "insurants": [
+            {
+                "seqno": "1",
+                "discountPrem": "0.00001",
+                "addPrem": "0",
+                "insurantPrem": "0.00001",
+                "premVersion": "02"
+            }
+        ]
+    }
+}
